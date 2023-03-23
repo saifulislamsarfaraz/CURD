@@ -1,4 +1,4 @@
-## add copy it in your xammp folder
+## Create studets table 
 
   ```bash
   CREATE TABLE students (
